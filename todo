@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir -p ~/.todo
+vim ~/.todo/todo
